@@ -1,0 +1,204 @@
+.container{
+    padding-left: 135px;
+    padding-right: 135px;
+    padding-top: 37px;
+    padding-bottom: 37px;
+}
+.background{
+    background-color:#ffffff ;
+}
+.background-3{
+  background-color:#ffffff ;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.background-2{
+background-color: rgba(33, 123, 244,0.06);
+border-radius: 14px;
+width: 474px;
+height: 72px;
+left: 483px;
+top: 260px;
+display: flex;
+justify-content: center;
+}
+.header-1 {
+    text-decoration: none;
+    color:#217BF4;
+    display: flex;
+    justify-content: center;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 18px;
+
+  }
+  .header-2 {
+    text-decoration: none;
+    color:#0A093D;
+    display: flex;
+    justify-content: center;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 36px;
+    margin-top: 10px;
+
+  }
+  .header-3 {
+    text-decoration: none;
+    color:#656464;
+    display: flex;
+    justify-content: center;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    margin-top: 18px;
+    margin-bottom: 38px;
+    text-align: center;
+  } 
+  .blok-2{
+    width: 474px;
+    height: 72px;
+    left: 483px;
+    top: 260px;
+    margin-left:483px ;
+    margin-right: 483px;
+    display: flex;
+    justify-content: center;
+  }
+  .blok2-text1{
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    color: #2F2C4A;
+    margin-top: 28px;
+    margin-bottom: 28px;
+    margin-right: 98px;
+    margin-left:58px ;
+    font-family: 'Inter';
+font-weight: 500;
+font-size: 16px;
+line-height: 16px;
+text-align: center;
+letter-spacing: 0.01em;
+  }
+  .blok2-text2{
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    color: #2F2C4A;
+    margin-top: 28px;
+    margin-bottom: 28px;
+    margin-right: 50px;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: center;
+  }
+  .blok2-text3{
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    width: 150px;
+    height: 56px;
+    left: 799px;
+    top: 268px;
+   background: #217BF4;
+   box-shadow: 0px 7px 22px -6px rgba(0, 72, 168, 0.34);
+   border-radius: 14px;
+   margin:8px;
+  }
+  .blok2-text31{
+    text-decoration: none;
+    color:rgb(255, 255, 255);
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 16px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    margin-right: 49px;
+    text-align: center;
+  }
+  .blok3{
+    display: flex;
+    justify-content: space-between;
+  }
+  .ram1{
+    background: #FFFFFF;
+    box-shadow: 0px 34px 68px rgba(116, 115, 128, 0.1);
+    border-radius: 14px;
+    margin-left: 30px;
+    margin-bottom: 130px;
+    margin-right: 30px;
+    margin-top: 44px;
+  }
+  .ramtext{
+    text-decoration: none;
+    color: #2F2C4A;
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 26px;
+margin-top:34px ;
+margin-left: 49px;
+margin-bottom:14px ;
+margin-right:50px ;
+  }
+  .ramtext2{
+    text-decoration: none;
+    color: #656464;
+    font-family: 'Inter';
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+padding-top: 270px;
+padding-left: 99px;
+padding-right: 99px;
+padding-bottom: 30px;
+text-align: center;
+  }
+  .ramyellow{
+    border-radius:100%;
+    width: 166px;
+height: 166px;
+left: 187px;
+top: 406px;
+margin-top: 30px;
+margin-left:52px ;
+margin-bottom:34px ;
+margin-right: 52px;
+border-top: 4px solid hsla(37, 100%, 59%, 1) ;
+border-bottom: 4px solid hsla(37, 100%, 59%, 0.3) ;
+  }
+  
+  .round {
+    border-radius: 100px; 
+    padding:12px;
+   }
+   .roundBlue{
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    margin-bottom: -35px;
+    margin-left: 123px;
+    margin-right: 123px;
+    margin-top: -38px;
+    background: #217BF4;
+   }
+   .vector{
+    margin-top:6.38px ;
+    padding-left:130px ;
+    margin-bottom:8.73px;
+    padding-right:132px ;
+    
+   }
+  
+
+
